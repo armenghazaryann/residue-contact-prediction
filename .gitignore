@@ -1,0 +1,7 @@
+__pycache__/
+*.py[oc]
+.venv
+.idea
+pdb_files_0
+pdb_files_0/
+gnn_model.pth
